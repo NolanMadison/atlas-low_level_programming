@@ -1,7 +1,8 @@
-#!/bin/bash
+#include <stdio.h>
+
 /**
- * will print an exact line using printf
- * return: 0
+ * Will print an exact line using printf
+ * Return: 0
  */
 
 int main(void)
